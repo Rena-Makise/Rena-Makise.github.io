@@ -27,7 +27,7 @@ description              : "레나의 취미 집합소"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # 사이트의 baseurl을 설정해준다.
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Rena-Makise/Rena-Makise.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Rena Makise"
-  avatar           : "/assets/images/profilejpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Thrilling Dream"
   location         : "Somewhere"
   email            :
