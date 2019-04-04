@@ -299,7 +299,7 @@ defaults:
       read_time: true
       comments: true
       share: false
-      related: true
+      related: false
 
   # 테마에 포함되어 있던 Docs 폴더의 _config.yml을 참고하여 _pages 폴더를 만들고 그 폴더에 대한 출력 방법을 정의 했습니다.
   # _pages
