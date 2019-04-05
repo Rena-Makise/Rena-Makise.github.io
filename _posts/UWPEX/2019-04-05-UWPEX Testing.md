@@ -1,5 +1,5 @@
 ---
-title: UWP Example 카테고리 페이지
+title: UWP Example 카테고리
 categories:
   - uwpex
 tags:
