@@ -4,7 +4,7 @@ categories:
   - algorithm
 tags:
   - Algorithm
-last_modified_at: 2019-12-22T13:00:00+09:00
+date: 2019-10-13T13:00:00+09:00
 toc: false
 use_math: true
 ---
