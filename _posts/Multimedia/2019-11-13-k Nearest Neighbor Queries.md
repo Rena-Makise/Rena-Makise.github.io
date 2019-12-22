@@ -1,9 +1,9 @@
 ---
 title: k-Nearest Neighbor Queries
 categories:
-  - mul
+  - multimedia
 tags:
-  - Mul
+  - Multimedia
 date: 2019-11-13T13:00:00+09:00
 toc: false
 use_math: true

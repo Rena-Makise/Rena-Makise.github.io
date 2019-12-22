@@ -1,9 +1,9 @@
 ---
 title: Audio Fingerprinting
 categories:
-  - mul
+  - multimedia
 tags:
-  - Mul
+  - Multimedia
 date: 2019-11-27T13:00:00+09:00
 toc: false
 use_math: true

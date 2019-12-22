@@ -1,9 +1,9 @@
 ---
 title: MPEG – Digital Video Coding Standard
 categories:
-  - mul
+  - multimedia
 tags:
-  - Mul
+  - Multimedia
 date: 2019-10-16T13:00:00+09:00
 toc: false
 ---

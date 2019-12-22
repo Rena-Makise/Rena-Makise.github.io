@@ -1,9 +1,9 @@
 ---
 title: JPEG Image Compression Standard
 categories:
-  - mul
+  - multimedia
 tags:
-  - Mul
+  - Multimedia
 date: 2019-09-25T13:00:00+09:00
 toc: false
 ---
