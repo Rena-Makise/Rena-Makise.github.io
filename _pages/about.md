@@ -8,5 +8,3 @@ toc: false
 
 ## Introduce
 * Job : Developer
-
-## Projects

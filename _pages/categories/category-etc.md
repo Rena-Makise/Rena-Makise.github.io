@@ -5,7 +5,7 @@ permalink: /categories/etc
 author_profile: true
 sidebar_main: true
 ---
-> 기타 잡다한 공간입니다.
+> 기타 전공관련 자료입니다.
 
 {% assign posts = site.categories.etc | sort:"date" %}
 
