@@ -1,5 +1,5 @@
 ---
-title: Software Engineering.md
+title: Software Engineering
 categories:
   - etc
 tags:
